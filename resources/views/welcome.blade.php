@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout title="Syarif Hidayatulloh">
     <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
 
         <div class="text-center">
