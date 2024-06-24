@@ -12,7 +12,7 @@
         @vite('resources/css/app.css')
         <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.0/dist/cdn.min.js"></script>
     </head>
-    <body class="font-sans antialiased dark:bg-black dark:text-white/50 h-screen">
+    <body class="font-sans antialiased dark:bg-white dark:text-white/50">
 
     <div class="bg-white">
   <x-navbar></x-navbar>
