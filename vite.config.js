@@ -9,11 +9,7 @@ export default defineConfig({
         }),
     ],
     server: {
-	host: '0.0.0.0',
-	port: 3000,
-	hmr: {
-	    host: '192.168.1.21',
-	    port: 3000,
-	},
+	https: false,
+	host: 'syarifhiday.my.id',
     },
 });
